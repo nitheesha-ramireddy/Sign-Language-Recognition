@@ -34,13 +34,13 @@ The dataset includes:
 - Custom collected images & videos
 - Public ASL datasets
 
-👉 Download Dataset: [PASTE YOUR DRIVE LINK HERE]
+👉 Download Dataset: [https://drive.google.com/drive/folders/1nsc-CIYQNyeaMlpNZ-cYEXLZ0ziVCSTq]
 
 ---
 
 ## 🎯 Results
 - High accuracy on dataset images
-- Works on real-time video input
+- Works on images other than dataset also.
 - NLP improves word prediction
 
 ---
